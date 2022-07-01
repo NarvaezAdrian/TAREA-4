@@ -6,7 +6,7 @@ Objetivo General
 
 Objetivo Específico
 
-* Resumir los capitulos siete y ocho del libro de Floyd "Principios de Circuitos Eléctricos", para que de esta forma se pueda comprender de una mejor manera los temas descritos.
+* Resumir los capitulos siete y ocho del libro de Floyd "Principios de Circuitos Eléctricos", para que de esta forma se pueda comprender de una mejor manera los temas tratados.
 * Aplicar los conocimientos adquiridos de los temas de circuitos en serie y circuitos en paralelo para la resolcuión de los ejercicos propuestos por el libro de Floyd.
 
 2. MARCO TEÓRICO 
@@ -98,7 +98,6 @@ R5, R6, R7, R8, R9, R10 y R11 están en serie con la combinación en paralelo qu
 
 ![image](https://user-images.githubusercontent.com/93734334/146682894-a3600796-04f0-4627-9faa-fe952457ad27.png)
 
-**SECCIÓN 7–2 Análisis de circuitos resistivos en serie-paralelo**
 
 10. Para cada uno de los circuitos mostrados en la figura 7-62, determine la resistencia total presentada a
 la fuente.
@@ -231,7 +230,7 @@ RBC = 1.32 kohm
 
 RCD = 0 ohm
 
-**SECCIÓN 7–3 Divisores de voltaje con cargas resistivas**
+
 
 26. Un divisor de voltaje está compuesto por dos resistores de 56 kÆ y una fuente de 15 V. Calcule el voltaje de salida sin carga. ¿Cuál será el voltaje de salida si se conecta un resistor con carga de 1.0 MÆ a la salida?
 
