@@ -43,8 +43,10 @@ Objetivo Específico
 
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-**SECCIÓN 7–1 Identificación de relaciones en serie-paralelo**
-1. Visualice y trace las siguientes combinaciones en serie-paralelo:                                                                                                             
+ CAPITULO #7
+
+
+2. Visualice y trace las siguientes combinaciones en serie-paralelo:                                                                                                             
 (a) R1 en serie con la combinación en paralelo de R2 y R3                                                                                                                         
 (b) R1 en paralelo con la combinación en serie de R2 y R3                                                                                                                         
 (c) R1 en paralelo con una rama que contiene R2 en serie con una combinación en paralelo de otros cuatro resistores
@@ -61,7 +63,7 @@ Objetivo Específico
 
 ![image](https://user-images.githubusercontent.com/93734334/146681049-64ab256e-cc7f-4331-a736-4845761bfee0.png)
 
-3. En cada circuito de la figura 7-62, identifique las relaciones en serie-paralelo de los resistores vistas
+4. En cada circuito de la figura 7-62, identifique las relaciones en serie-paralelo de los resistores vistas
 desde la fuente.
 
 ![image](https://user-images.githubusercontent.com/93734334/146679237-c3a19269-9b65-4a28-a5ac-aab1e9eddbb7.png)
@@ -78,7 +80,7 @@ R1 está en serie con la combinación en paralelo de R2, R3 y R4.
 
 La combinación en paralelo de R2 y R3 está en serie con la combinación en paralelo de R4 y R5. Todo esto está en paralelo con R1
 
-5. Trace el diagrama esquemático de la configuración de la tarjeta de circuito impreso mostrada en la figura 7-64 indicando valores de resistor, e identifique las relaciones en serie-paralelo.
+6. Trace el diagrama esquemático de la configuración de la tarjeta de circuito impreso mostrada en la figura 7-64 indicando valores de resistor, e identifique las relaciones en serie-paralelo.
 
 ![image](https://user-images.githubusercontent.com/93734334/146679285-5e972b6e-63e3-4872-9a24-ccc474b9b1c9.png)
 
@@ -88,7 +90,7 @@ La combinación en paralelo de R2 y R3 está en serie con la combinación en par
 
 R5, R6, R7, R8, R9, R10 y R11 están en serie con la combinación en paralelo que, a su vez, está en paralela con la combinación en serie R1 y R3, y R2 y R4.
 
-7. Configure una tarjeta de circuito impreso para el circuito de la figura 7-63(c). La batería tiene que conectarse externa a la tarjeta.
+8. Configure una tarjeta de circuito impreso para el circuito de la figura 7-63(c). La batería tiene que conectarse externa a la tarjeta.
 
 ![image](https://user-images.githubusercontent.com/93734334/146679321-7821ab44-ba2b-4f4c-a65d-379995c64271.png)
 
@@ -98,7 +100,7 @@ R5, R6, R7, R8, R9, R10 y R11 están en serie con la combinación en paralelo qu
 
 **SECCIÓN 7–2 Análisis de circuitos resistivos en serie-paralelo**
 
-9. Para cada uno de los circuitos mostrados en la figura 7-62, determine la resistencia total presentada a
+10. Para cada uno de los circuitos mostrados en la figura 7-62, determine la resistencia total presentada a
 la fuente.
 
 ![image](https://user-images.githubusercontent.com/93734334/146679388-5d2e12a9-b6e8-4561-83ee-daba30cd127a.png)
@@ -136,7 +138,7 @@ Req=5.74
 RT=0.852                                                                                                                                                                         
 **RT=852 ohm**
 
-11. Determine la corriente a través de cada resistor del circuito de la figura 7-62; calcule en seguida cada
+12. Determine la corriente a través de cada resistor del circuito de la figura 7-62; calcule en seguida cada
 caída de voltaje.
 
 ![image](https://user-images.githubusercontent.com/93734334/146679388-5d2e12a9-b6e8-4561-83ee-daba30cd127a.png)
@@ -159,7 +161,7 @@ I3 = 568 mA, I4 = 313 uA,
 I5 = 558 mA, V1 = 5 V,                                                                                                                                                           
 V2 = V3 = 1.88 V, V4 = V5 = 3.13 V
 
-13. Encuentre RT para todas las combinaciones de los interruptores de la figura 7-66
+14. Encuentre RT para todas las combinaciones de los interruptores de la figura 7-66
 
 ![image](https://user-images.githubusercontent.com/93734334/146679450-424a4eb0-544f-4b79-9145-fa37cda7553a.png)
 
@@ -170,7 +172,7 @@ SW1 cerrado, SW2 cerrado: 200 ohm
 SW1 abierto, SW2 abierto: 320 ohm                                                                                                                                                 
 SW1 abierto, SW2 cerrado: 300 ohm
 
-15. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-67.
+16. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-67.
 
 ![image](https://user-images.githubusercontent.com/93734334/146679472-199f1363-62d7-4576-b294-6d0aef6d6cfe.png)
 
@@ -181,7 +183,7 @@ VB = 61.5V
 Vc = 15.7V                                                                                                                                                                       
 VD = 7.87V
 
-17. En la figura 7-68, ¿cómo determinaría el voltaje entre los extremos de R2 por medición sin conectar directamente un medidor entre los extremos del resistor?
+18. En la figura 7-68, ¿cómo determinaría el voltaje entre los extremos de R2 por medición sin conectar directamente un medidor entre los extremos del resistor?
 
 ![image](https://user-images.githubusercontent.com/93734334/146679489-70e42ca0-94ac-4a83-a130-c8a96b739b44.png)
 
@@ -189,7 +191,7 @@ VD = 7.87V
 
 Se debe medir el voltaje en A con respecto a tierra y el voltaje en B con respecto a tierra. La resta de esto es VR2.
 
-19. Determine la resistencia del circuito mostrado en la figura 7-68 como se ve desde la fuente de voltaje.
+20. Determine la resistencia del circuito mostrado en la figura 7-68 como se ve desde la fuente de voltaje.
 
 ![image](https://user-images.githubusercontent.com/93734334/146679511-ae62a459-fdaf-4439-b9a8-f776025b3d18.png)
 
@@ -202,7 +204,7 @@ Req2 = 1100
 1/RT = 1/716 + 1/1100 + 1/1000                                                                                                                                                   
 **RT = 303 kohm**
 
-21. (a) Determine el valor de R2 en la figura 7-70. (b) Encuentre la potencia en R2.
+22. (a) Determine el valor de R2 en la figura 7-70. (b) Encuentre la potencia en R2.
 
 ![image](https://user-images.githubusercontent.com/93734334/146679544-4f1f2395-413b-485a-90b8-91da6cd01693.png)
 
@@ -216,7 +218,7 @@ Req2 = 1100
 
 110 mW
 
-23. Encuentre la resistencia entre cada uno de los siguientes juegos de nodos mostrados en la figura 7-72:
+24. Encuentre la resistencia entre cada uno de los siguientes juegos de nodos mostrados en la figura 7-72:
 AB, BC y CD
 
 ![image](https://user-images.githubusercontent.com/93734334/146679604-482768d7-dadd-473e-a01e-7566cdc346ae.png)
@@ -231,7 +233,7 @@ RCD = 0 ohm
 
 **SECCIÓN 7–3 Divisores de voltaje con cargas resistivas**
 
-25. Un divisor de voltaje está compuesto por dos resistores de 56 kÆ y una fuente de 15 V. Calcule el voltaje de salida sin carga. ¿Cuál será el voltaje de salida si se conecta un resistor con carga de 1.0 MÆ a la salida?
+26. Un divisor de voltaje está compuesto por dos resistores de 56 kÆ y una fuente de 15 V. Calcule el voltaje de salida sin carga. ¿Cuál será el voltaje de salida si se conecta un resistor con carga de 1.0 MÆ a la salida?
 
 Vsalida(sin carga) = (R2/R1+R2)VS                                                                                                                                                 
 Vsalida(sin carga) = (56/56+56)15                                                                                                                                                 
@@ -245,7 +247,7 @@ Vsalida(con carga) = (R2||RL/R1+R2||RL)Vs
 Vsalida(con carga) = (53.03/56+53.03)15                                                                                                                                           
 **Vsalida(con carga) = 7.29V**
 
-27. ¿Cuál de dos cargas, una de 10 kohm y otra de 47 kohm, provocará una disminución más pequeña en el voltaje de salida de un divisor de voltaje dado?
+28. ¿Cuál de dos cargas, una de 10 kohm y otra de 47 kohm, provocará una disminución más pequeña en el voltaje de salida de un divisor de voltaje dado?
 
 Vsalida = (R2/R1+R2)Vs
 
@@ -259,7 +261,7 @@ Vsalida = 0.824Vs
  
  47 kohm
 
-29. En la figura 7-74, determine el voltaje de salida con una carga de 33 kohm conectada entre A y B.
+30. En la figura 7-74, determine el voltaje de salida con una carga de 33 kohm conectada entre A y B.
 
 ![image](https://user-images.githubusercontent.com/93734334/146679706-4a3dd4f0-bd70-4fba-8735-406760c11b76.png)
 
@@ -275,7 +277,7 @@ Vsalida(con carga) = (Req||RL/R1+Req||RL)Vs
 Vsalida(con carga) = (6.63/10+6.63)22                                                                                                                                             
 **Vsalida(con carga) = 8.77V**
 
-35. ¿En cuál de los siguientes intervalos de voltaje presentará un voltímetro la mínima carga que haya en un circuito?
+32. ¿En cuál de los siguientes intervalos de voltaje presentará un voltímetro la mínima carga que haya en un circuito?
 (a) 1 V		(b) 10 V		(c) 100 V	(d) 1000 V
 
 **Respuesta: 1000 V**
@@ -290,7 +292,7 @@ Vsalida(con carga) = (6.63/10+6.63)22
 
 **Respuesta: Se reduce en un  ≅ 1 mV**
 
-39. Para el circuito mostrado en la figura 7-77, calcule:
+34. Para el circuito mostrado en la figura 7-77, calcule:
 
 ![image](https://user-images.githubusercontent.com/93879569/146889962-43cea50e-4ed8-48aa-a6a2-27424e7e7b7c.png)
 
@@ -372,7 +374,7 @@ V_x=(60 V)/(271 Ω  )*218.75 Ω
 
 **V_x=48.43 V**
 
-41. Determine la resistencia total entre las terminales A y B de la red en escalera de la figura 7-79. Asimismo, calcule la corriente en cada rama con 10 V entre A y B.
+36. Determine la resistencia total entre las terminales A y B de la red en escalera de la figura 7-79. Asimismo, calcule la corriente en cada rama con 10 V entre A y B.
 
 ![image](https://user-images.githubusercontent.com/93879569/146890704-91f7df2d-98aa-468a-a5e4-9cc8760b50d1.png)
 
@@ -405,7 +407,7 @@ I_(7)=0.00378A
 I_(8)=0.00784 A
 I_(9)=0.0161 A**
 
-43. Determine IT y VSALIDA en la figura 7-80.
+38. Determine IT y VSALIDA en la figura 7-80.
 
 ![image](https://user-images.githubusercontent.com/93879569/146890899-294b9229-9e30-4bcf-b599-bbafc12362e4.png)
 
@@ -435,7 +437,7 @@ Vsalida=(30 V)/2
 
 **Vsalida=15 V**
 
-45. Repita el problema 44 para as siguientes condiciones
+40. Repita el problema 44 para as siguientes condiciones
 
 (a) SW3 y SW4 conectados a 12 V, SW1 y SW2 a tierra
 
@@ -453,7 +455,7 @@ Vsalida=  2R/4R*V
 
 **Respuesta: 11.25 V**
 
-47. Una celda de carga tiene cuatro medidores de deformación idénticos con una resistencia ilimitada de 120,000 Ω  para cada medidor (un valor estándar). Cuando se agrega una carga, los medidores a tensión incrementan su resistencia en 60 mΩ , a 120,060 Ω , y los medidores a compresión disminuyen su resistencia en 60 Ω m, a 119.940 Ω , como se muestra en la figura 7-82. ¿Cuál es el voltaje de salida con carga?
+42. Una celda de carga tiene cuatro medidores de deformación idénticos con una resistencia ilimitada de 120,000 Ω  para cada medidor (un valor estándar). Cuando se agrega una carga, los medidores a tensión incrementan su resistencia en 60 mΩ , a 120,060 Ω , y los medidores a compresión disminuyen su resistencia en 60 Ω m, a 119.940 Ω , como se muestra en la figura 7-82. ¿Cuál es el voltaje de salida con carga?
 
 ![image](https://user-images.githubusercontent.com/93879569/146891208-fba2f109-9beb-468f-9f7c-98851e1917cc.png)
 
@@ -464,7 +466,7 @@ Vsalida=60*12V/(4*240)
 
 Vsalida=6 V,lado erecho positivo 
 
-49. ¿Es correcta la lectura del voltímetro de la figura 7-84?
+44. ¿Es correcta la lectura del voltímetro de la figura 7-84?
 
 ![image](https://user-images.githubusercontent.com/93879569/146891296-7467c124-ede4-412d-9525-a7baa29e58dd.png)
 
@@ -476,13 +478,13 @@ Vsalida=  (2*4.64)/(4*4.64) Ω*12V=6.0
 
 **Respuesta: La lectura esta mal ya que hay un margen de error del 0.2.**
 
-51. En la figura 7-86 hay una falla. Con base en las indicaciones del medidor, determine cuál es la falla.
+46. En la figura 7-86 hay una falla. Con base en las indicaciones del medidor, determine cuál es la falla.
 
 ![image](https://user-images.githubusercontent.com/93879569/146891412-9a419cd5-a904-4089-a78e-3abe32538b22.png)
 
 **Respuesta: El voltímetro del lado derecho marca cero voltios es decir existe una apertura en el circuito por consiguiente el resistor 3 debe ser el que está abierto.**
 
-53. Revise las lecturas de los medidores de la figura 7-88 y localice cualquier falla que pudiera existir.
+48. Revise las lecturas de los medidores de la figura 7-88 y localice cualquier falla que pudiera existir.
 
 ![image](https://user-images.githubusercontent.com/93879569/146891472-dad352c2-64a2-4517-92c8-576188242023.png)
 
@@ -505,28 +507,28 @@ V1=9.976 V
 
 **Respuesta: El resistor abierto será el resistor 4 debido a que sin necesidad de ocupar el resistor 4 el resultado del voltaje no varía**
 
-SECCIÓN 8–3 Conversiones de fuente
+#CAPITULO 8
 
-1. Una fuente de voltaje tiene los valores VS  300 V y RS  50 Ω. Conviértala en una fuente de corriente equivalente.
+2. Una fuente de voltaje tiene los valores VS  300 V y RS  50 Ω. Conviértala en una fuente de corriente equivalente.
 
 I_s=(300 V)/(50 Ω)
 
 **I_(s )=6 A**
 	
-3. Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?
+4. Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?
 
 Rs=Vs/Is=1.6V/(8 A)
 
 **Rs=0.2 Ω**
 
-5. Una fuente de corriente tiene una IS de 600 mA y una RS de 1.2 k
+6. Una fuente de corriente tiene una IS de 600 mA y una RS de 1.2 k
 Ω. Conviértala en una fuente de voltaje equivalente.
 
 **Vs=0.6 A*1200 Ω=720 V**
 
-SECCIÓN 8–4 El teorema de superposición 
 
-7. Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69.
+
+8. Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69.
 
 ![image](https://user-images.githubusercontent.com/93733175/146944208-e5da6a13-610a-4cb3-9dac-0849c6b79923.png)
 ![image](https://user-images.githubusercontent.com/93733175/147267700-9a893516-3355-42de-a070-c33819b4d368.png)
@@ -554,7 +556,7 @@ I5(2) = (950/2200) 0.0015 = 0.00065 A = 0.65 mA
 I5 = 0.65 + 0.89 = 1.54 mA
 
 
-9. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70.
+10. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70.
 
 ![image](https://user-images.githubusercontent.com/93733175/146944243-0de21bd6-e9f5-4e79-bd3b-a0ab0714ecd7.png)
 
@@ -598,7 +600,7 @@ IR3=17.2 mA-15.6 mA
 
 **IR3=1.6 mA**
 
-11. En la figura 8-72 se muestra un circuito comparador. El voltaje de entrada, VENTRADA, se compara con el voltaje de referencia, VREFERENCIA, y se genera una salida negativa si VREFERENCIA > VENTRADA; de lo contrario es positiva. El comparador no carga a una u otra entrada. Si R2 es de 1.0 kΩ, ¿cuál es el intervalo del voltaje de referencia?
+12. En la figura 8-72 se muestra un circuito comparador. El voltaje de entrada, VENTRADA, se compara con el voltaje de referencia, VREFERENCIA, y se genera una salida negativa si VREFERENCIA > VENTRADA; de lo contrario es positiva. El comparador no carga a una u otra entrada. Si R2 es de 1.0 kΩ, ¿cuál es el intervalo del voltaje de referencia?
 
 ![image](https://user-images.githubusercontent.com/93733175/146947181-4b4a72af-2ec0-4d7c-9a88-af968db9813a.png)
 
@@ -622,7 +624,7 @@ Por lo que tenemos:
 
 V=100V – 9.28V = **90.72V**
 
-15. La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).
+16. La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).
 
 ![image](https://user-images.githubusercontent.com/93733175/146947331-0717b2f9-d457-4077-af17-11a164e2a990.png)
 
@@ -646,9 +648,9 @@ RTh = 5.6 kΩ + (10 kΩ * 5.6 kΩ) / (10 kΩ + 5.6 kΩ)*2 = 12.78 kΩ
 
 ITh = 9.62V / 12.78 kΩ = **1.35 mA**
 
-SECCIÓN 8–5 Teorema de Thevenin
 
-17. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-7.
+
+18. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-7.
 
 ![image](https://user-images.githubusercontent.com/93733175/146947405-41755a60-f717-4d6f-90de-d52d280f75ac.png)
 
@@ -658,7 +660,7 @@ VTh = (5.6 kΩ / (10 kΩ + 5.6 kΩ) ) *32V = 11.49V
 
 IRL = VTh / RL = 11.49V / 15 kΩ = 0.116 mA = **116 µA**
 
-19. Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79.
+20. Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79.
 
 ![image](https://user-images.githubusercontent.com/93733175/146947459-ceb4f909-2414-4efc-a343-6365745907e0.png)
 
@@ -682,7 +684,7 @@ Resistencia Equivalente
 
 RTh = 100 Ω (1200) (2200) / 1200+2200 = **876.47 Ω**
 
-21. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.
+22. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.
 
 ![image](https://user-images.githubusercontent.com/93733175/146947507-16a7e82e-7266-439f-ada4-b76cb3683908.png)
 
@@ -698,7 +700,7 @@ I1 = VTh / RTh + R1 = (1.12/1.175 + 10) = **100 µA**
 
 SECCIÓN 8–6 Teorema de Norton
 
-23. Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton visto por RL.
+24. Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton visto por RL.
 
 ![image](https://user-images.githubusercontent.com/93733175/146947575-e52b7330-065c-4069-8409-bc3e6bd840cf.png)
 
@@ -718,7 +720,7 @@ d) IN = 68.8 mA
 
 RN = 1.3 kΩ
 
-25. Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78.
+26. Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78.
 
 ![image](https://user-images.githubusercontent.com/93733175/146947618-8f0241b4-42fc-4268-bd2c-5ef124a34e51.png)
 
@@ -726,7 +728,7 @@ RN = 1.3 kΩ
 
 17.9 V
 
-27. Determine el circuito equivalente Norton para el puente que aparece en la figura 8-81 sin RL.
+28. Determine el circuito equivalente Norton para el puente que aparece en la figura 8-81 sin RL.
 
 ![image](https://user-images.githubusercontent.com/93733175/146947664-36465694-140d-4ae1-b555-abe0886f7054.png)
 
@@ -736,7 +738,7 @@ IN = **953 µA**
 
 RN = RTH = **1175 Ω**
 
-29. Aplique el teorema de Norton al circuito de la figura 8-84.
+30. Aplique el teorema de Norton al circuito de la figura 8-84.
 
 ![image](https://user-images.githubusercontent.com/93733175/146947694-8e45b122-63a4-4446-a12f-c52148d42789.png)
 
@@ -746,9 +748,9 @@ IN = -48.2 mA
 
 RN = 56.9 Ω
 
-SECCIÓN 8–7 Teorema de transferencia de potencia máxima
 
-31. En el circuito de la figura 8-86, determine el valor de RL para transferencia de potencia máxima.
+
+32. En el circuito de la figura 8-86, determine el valor de RL para transferencia de potencia máxima.
 
 ![image](https://user-images.githubusercontent.com/93733175/146947755-5f16b705-4242-4bdc-94fb-394b064f00f4.png)
 
@@ -758,7 +760,7 @@ Para la transferencia máxima se tiene que:
 
 RL = Rs = **11.1 Ω**
 
-33. ¿Cuáles son los valores de R4 y RTH cuando la potencia máxima se transfiere de la fuente thevenizada a la red en configuración de escalera de la figura 8-87?
+34. ¿Cuáles son los valores de R4 y RTH cuando la potencia máxima se transfiere de la fuente thevenizada a la red en configuración de escalera de la figura 8-87?
 
 ![image](https://user-images.githubusercontent.com/93733175/146947883-12c40375-57c1-49a8-a6ec-c7ab47d1ee69.png)
 
@@ -768,9 +770,9 @@ RTH = 48 Ω
 
 R4 = 160 Ω
 
-SECCIÓN 8–8 Conversiones delta a Y (∆ a Y) y Y a ∆
 
-35. En la figura 8-89, convierta cada red Y en una red delta.
+
+36. En la figura 8-89, convierta cada red Y en una red delta.
 
 ![image](https://user-images.githubusercontent.com/93733175/146947963-8806deec-1f28-4261-b561-a46be1ae525c.png)
 
@@ -814,6 +816,4 @@ https://youtu.be/ji6FaOYd_iY
 
 Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
 
-RUBRICA
 
-![](https://github.com/doalulema/InformeTarea/blob/main/Tarea.png)
