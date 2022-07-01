@@ -27,10 +27,6 @@ Objetivo Específico
 
 ![image](https://user-images.githubusercontent.com/93879569/146889556-d9cc546e-f759-4db3-8e84-b1fb960930c9.png)
 
-![image](https://user-images.githubusercontent.com/93879569/146889597-738061e3-643f-4349-93fa-d4424322270f.png)
-
-![image](https://user-images.githubusercontent.com/93879569/146889630-613cc84e-d8fe-4ff9-a813-397b5732b758.png)
-
 ![image](https://user-images.githubusercontent.com/93733175/146943204-a7a092ad-d05e-449c-837f-7f0766716315.png)
 
 ![image](https://user-images.githubusercontent.com/93733175/146943291-65bda36f-fefc-45b7-adc7-83c1d4241fed.png)
@@ -505,6 +501,21 @@ V1=3.81*2.6246
 V1=9.976 V
 
 **Respuesta: El resistor abierto será el resistor 4 debido a que sin necesidad de ocupar el resistor 4 el resultado del voltaje no varía**
+50. ¿Son correctas las lecturas del medidor mostrado en la figura 7-85?
+
+![image](https://user-images.githubusercontent.com/105675032/176806930-eb47b640-7b18-4a25-bbff-aad8e3063900.png)
+
+52. Vea los medidores ilustrados en la figura 7-87 y determine si hay una falla en el circuito. Si la hay, identifíquela.
+
+![image](https://user-images.githubusercontent.com/105675032/176806953-b76bb3b6-0de0-4c0b-a33b-582747a606fb.png)
+
+![image](https://user-images.githubusercontent.com/105675032/176807036-cb2615fa-3701-40a3-92fe-b6bcb89a2da0.png)
+
+54. Si en la figura 7-89 R2 se abre, ¿qué voltajes se leerán en los puntos A, B y C?
+
+![image](https://user-images.githubusercontent.com/105675032/176802179-8bf3ff0a-b5e1-4ac2-ae20-9de13cecc7c4.png)
+
+![image](https://user-images.githubusercontent.com/105675032/176807156-6d5d4b1c-fb30-4b0a-a71f-7a07ab2029a0.png)
 
 #CAPITULO 8
 
